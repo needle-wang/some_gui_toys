@@ -26,7 +26,7 @@ public class myReminder extends JFrame{
 		initComponent();
 	}
 	public void initComponent(){
-		show="do somthing...";
+		show="do something...";
 		text=new JLabel("interval "+minute+"(min):"+show);
 		textLabel=new JLabel("do what? :");
 		textEdit=new JTextField("");
