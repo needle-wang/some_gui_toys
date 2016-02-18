@@ -1,2 +1,6 @@
 # some_gui_toys
 useful? interesting? who knows...
+
+after learned core java, i code a calculator.  
+after learned core python, i code a calculator...  
+
